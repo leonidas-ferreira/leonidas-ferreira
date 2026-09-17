@@ -27,6 +27,9 @@ Sou estudante do último ano de Engenharia de Software e apaixonado por criar so
 ---
 
 ### 📊 As minhas Estatísticas no GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonidas-ferreira&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do Leônidas" />
+  <a href="https://github.com/leonidas-ferreira">
+    <img src="https://github-readme-stats.vercel.app/api?username=leonidas-ferreira&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do Leônidas" />
+  </a>
 </div>
